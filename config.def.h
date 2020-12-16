@@ -5,8 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-// static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
-static char *font = "Iosevka Nerd Font Mono:style=Medium:size=10";
+static char *font = "Iosevka Nerd Font:style=Medium:size=9.5";
 static int borderpx = 5;
 
 /*
