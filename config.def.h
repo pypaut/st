@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Iosevka Nerd Font:style=Medium:size=9.5";
+// static char *font = "Iosevka Nerd Font:style=Medium:size=9.5";
+static char *font = "Ubuntu Mono:style=Medium:size=11";
 static int borderpx = 5;
 
 /*
